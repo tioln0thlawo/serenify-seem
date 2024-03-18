@@ -1,0 +1,29 @@
+{
+  "name": "serenify-seem",
+  "version": "1.0.0",
+  "description": "Serenify** is a Node.js module providing a collection of utility functions promoting serenity and tranquility for various purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tioln0thlawo/serenify-seem"
+  },
+  "dependencies": {
+    "random-words": "^1.0.2",
+    "castquantum-coder": "1.0.0",
+    "tedscreaming-text-crypto": "1.1.4",
+    "quantum-talk-helpers": "1.0.0",
+    "peer-array-se": "1.0.0",
+    "mindful-utils-mind": "1.0.0",
+    "image-utils-pose": "1.0.0",
+    "puytaupojahrjoy-random": "1.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tioln0thlawo/serenify-seem/issues"
+  },
+  "homepage": "https://github.com/tioln0thlawo/serenify-seem#readme"
+}
